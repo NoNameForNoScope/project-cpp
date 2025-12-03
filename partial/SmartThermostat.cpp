@@ -41,6 +41,12 @@ void SmartThermostat::change_temp(int delta)
 		Logger::get_instance().append_file("Termostatul " + _producer + " " + _name + " cu ID: " + std::to_string(_id) + " este oprit");
 		return;
 	}
+
+	if (_mode == Mod::AUTOMAT) {
+		Logger::get_instance().append_file("Termostatul " + _producer + " " + _name + " cu ID: " + std::to_string(_id) + " este in modul AUTOMAT, temperatura nu poate fi modificata");
+		return;
+	}
+
 	if (delta > 0) {
 		_temp += delta;
 		Logger::get_instance().append_file("Termostatului " + _producer + " " + _name + " cu ID: " + std::to_string(_id) + "  i-a crescut temperatura la: " + std::to_string(_temp));

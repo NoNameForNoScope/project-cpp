@@ -1,62 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Flapjack\\source\\repos\\partial\\",
+  "WorkspaceRootPath": "C:\\Users\\Flapjack\\Desktop\\new\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartHub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartHub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartHub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartHub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartThermostat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartThermostat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartThermostat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartThermostat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SecurityCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SecurityCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Devices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\Devices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Devices.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\Devices.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\Devices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\Devices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartThermostat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartThermostat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartThermostat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartThermostat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\SecurityCamera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SecurityCamera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartHub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartHub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartHub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartHub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\SecurityCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SecurityCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\Devices.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\Devices.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SmartLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\Desktop\\new\\partial\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SecurityCamera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D95E243A-1BDA-474B-99E6-1FBF580CB062}|partial\\partial.vcxproj|solutionrelative:partial\\SecurityCamera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,62 +70,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "SecurityCamera.h",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SecurityCamera.h",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SecurityCamera.h",
               "RelativeDocumentMoniker": "partial\\SecurityCamera.h",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SecurityCamera.h",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SecurityCamera.h",
               "RelativeToolTip": "partial\\SecurityCamera.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-02T21:50:27.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "SmartLight.cpp",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartLight.cpp",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartLight.cpp",
               "RelativeDocumentMoniker": "partial\\SmartLight.cpp",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartLight.cpp",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartLight.cpp",
               "RelativeToolTip": "partial\\SmartLight.cpp",
               "ViewState": "AgIAACYAAAAAAAAAAADwvzAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-02T21:14:47.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T21:14:47.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "SmartHub.h",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartHub.h",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartHub.h",
               "RelativeDocumentMoniker": "partial\\SmartHub.h",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartHub.h",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartHub.h",
               "RelativeToolTip": "partial\\SmartHub.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-02T21:04:22.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T21:04:22.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Devices.h",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Devices.h",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\Devices.h",
               "RelativeDocumentMoniker": "partial\\Devices.h",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Devices.h",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\Devices.h",
               "RelativeToolTip": "partial\\Devices.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-02T21:06:49.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T21:06:49.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Logger.h",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Logger.h",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\Logger.h",
               "RelativeDocumentMoniker": "partial\\Logger.h",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Logger.h",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\Logger.h",
               "RelativeToolTip": "partial\\Logger.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -135,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "log.txt",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\log.txt",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\log.txt",
               "RelativeDocumentMoniker": "partial\\log.txt",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\log.txt",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\log.txt",
               "RelativeToolTip": "partial\\log.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -148,17 +145,17 @@
         },
         {
           "DockedWidth": 257,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\main.cpp",
               "RelativeDocumentMoniker": "partial\\main.cpp",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\main.cpp",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\main.cpp",
               "RelativeToolTip": "partial\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-02T20:56:32.873Z",
               "IsPinned": true,
@@ -166,89 +163,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "SmartHub.cpp",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartHub.cpp",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartHub.cpp",
               "RelativeDocumentMoniker": "partial\\SmartHub.cpp",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartHub.cpp",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartHub.cpp",
               "RelativeToolTip": "partial\\SmartHub.cpp",
               "ViewState": "AgIAAFkAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-02T21:59:56.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T21:59:56.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SecurityCamera.cpp",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SecurityCamera.cpp",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SecurityCamera.cpp",
               "RelativeDocumentMoniker": "partial\\SecurityCamera.cpp",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SecurityCamera.cpp",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SecurityCamera.cpp",
               "RelativeToolTip": "partial\\SecurityCamera.cpp",
               "ViewState": "AgIAACYAAAAAAAAAAADwvy8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-02T21:51:50.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T21:51:50.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartThermostat.h",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartThermostat.h",
+              "RelativeDocumentMoniker": "partial\\SmartThermostat.h",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartThermostat.h",
+              "RelativeToolTip": "partial\\SmartThermostat.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-02T21:33:17.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Devices.cpp",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\Devices.cpp",
+              "RelativeDocumentMoniker": "partial\\Devices.cpp",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\Devices.cpp",
+              "RelativeToolTip": "partial\\Devices.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T21:08:21.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmartThermostat.cpp",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartThermostat.cpp",
+              "RelativeDocumentMoniker": "partial\\SmartThermostat.cpp",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartThermostat.cpp",
+              "RelativeToolTip": "partial\\SmartThermostat.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T21:38:34.347Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SmartThermostat.h",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartThermostat.h",
-              "RelativeDocumentMoniker": "partial\\SmartThermostat.h",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartThermostat.h",
-              "RelativeToolTip": "partial\\SmartThermostat.h",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-02T21:33:17.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Devices.cpp",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Devices.cpp",
-              "RelativeDocumentMoniker": "partial\\Devices.cpp",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Devices.cpp",
-              "RelativeToolTip": "partial\\Devices.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-02T21:08:21.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SmartThermostat.cpp",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartThermostat.cpp",
-              "RelativeDocumentMoniker": "partial\\SmartThermostat.cpp",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartThermostat.cpp",
-              "RelativeToolTip": "partial\\SmartThermostat.cpp",
-              "ViewState": "AgIAACMAAAAAAAAAAADwvzEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-02T21:38:34.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Logger.cpp",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Logger.cpp",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\Logger.cpp",
               "RelativeDocumentMoniker": "partial\\Logger.cpp",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\Logger.cpp",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\Logger.cpp",
               "RelativeToolTip": "partial\\Logger.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-02T21:16:05.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T21:16:05.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SmartLight.h",
-              "DocumentMoniker": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartLight.h",
+              "DocumentMoniker": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartLight.h",
               "RelativeDocumentMoniker": "partial\\SmartLight.h",
-              "ToolTip": "C:\\Users\\Flapjack\\source\\repos\\partial\\partial\\SmartLight.h",
+              "ToolTip": "C:\\Users\\Flapjack\\Desktop\\new\\partial\\SmartLight.h",
               "RelativeToolTip": "partial\\SmartLight.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

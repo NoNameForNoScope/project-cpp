@@ -1,8 +1,9 @@
-#include <iostream>
+﻿#include <iostream>
 #include "SmartHub.h"
 #include "SmartLight.h"
 #include "SmartThermostat.h"
 #include "SecurityCamera.h"
+#include <vector>
 
 int main() {
     std::string prod1 = "Philips";
@@ -44,8 +45,20 @@ int main() {
     hub.turnOff_all();
     hub.show_device_list();
 
-    hub.remove_device(2);
+    std::cout << "Individual control:\n";
+    hub.individual_control(3);
 
+    std::cout << "Generic container:\n";
+    std::vector<Devices*> devices_list;
+    devices_list.push_back(bec1);
+    devices_list.push_back(termostat);
+    devices_list.push_back(camera);
+
+    for (Devices* device : devices_list) {
+        device->getStatus();
+    }
+
+    hub.remove_device(2);
     std::cout << "Device-uri ramase:\n";
     hub.show_device_list();
 
