@@ -13,8 +13,8 @@ class SmartHub
 	SmartHub& operator=(const SmartHub&) = delete;
 	SmartHub() = default;
 	
+	~SmartHub();
 
-	~SmartHub() = default;
 public:
 	static SmartHub& get_instance() {
 		static SmartHub s_instance;
@@ -31,6 +31,7 @@ public:
 	void turnOff_all();
 	void individual_control(int id);
 	void individual_status(int id);
+
 
 };
 
