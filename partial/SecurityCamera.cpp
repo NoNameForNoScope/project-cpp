@@ -20,7 +20,7 @@ void SecurityCamera::turnOff()
 		return;
 	}
 	isOn = false;
-	isRecording = false;  // FIX: Oprește și filmarea când oprești camera!
+	isRecording = false;
 	Logger::get_instance().append_file("Camera " + _producer + " " + _name + " cu ID: " + std::to_string(_id) + " a fost oprita");
 }
 
